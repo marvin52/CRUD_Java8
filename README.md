@@ -12,3 +12,5 @@ $ mvn clean install
 ```console
 $ mvn jetty:run
 ```
+
+Após isso entre em http://localhost:8080 para testar o crud!
